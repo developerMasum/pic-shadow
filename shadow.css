@@ -6,6 +6,9 @@ body{
 div.paragraph {
     color: dodgerblue;
     text-align: center;
+    background-color: chartreuse;
+    width: 100% ;
+    
 }
 h1{
     text-align: center;
