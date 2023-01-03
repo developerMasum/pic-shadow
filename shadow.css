@@ -7,6 +7,10 @@ div.paragraph {
     color: dodgerblue;
     text-align: center;
 }
+.list {
+    text-align: center;
+    color: chocolate;
+}
 h1{
     text-align: center;
 }
