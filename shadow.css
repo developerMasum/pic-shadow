@@ -3,6 +3,10 @@ body{
     font-size: 25px ;
     padding-top: 45px;
 }
+div.paragraph {
+    color: dodgerblue;
+    text-align: center;
+}
 h1{
     text-align: center;
 }
